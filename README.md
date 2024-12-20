@@ -30,7 +30,4 @@ SpaceRush is a thrilling Web3-integrated game that combines skill, competition, 
 
 ## **Links**
 
-- [Official Website](#)
-- [Whitepaper](#)
-- [Game Trailer](#)
-- [Discord Community](#)
+- [Official Twitter](https://x.com/Space_sol_ai)
